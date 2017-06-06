@@ -1,0 +1,18 @@
++ without multiply ID feature
+ [{"ep_i":0,"c_i":6.1,"g_i":1,"rmse.test":16962.7142,"rmse.train":13406.5703}]
+
+print(rmse.test.best)
+[1] 17167.21
+> print(rmse.train.best)
+[1] 11721.81
+> print(model.best)
+
+-----------
+
+[1] 12051.58
+[1] 14157.18
+
+1] 22979.95
+[1] 13150.82
+
+
